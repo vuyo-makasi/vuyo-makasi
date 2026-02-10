@@ -58,6 +58,6 @@ A serverless framework (Python/Lambda) that identifies underutilized database cl
 
 ## 📫 Connect with Me
 
-* **LinkedIn:** [Your Profile Link]
-* **Technical Blog:** [Your Blog/Website Link]
+* **LinkedIn:** [https://www.linkedin.com/in/vuyo-makasi-00993822/]
+* **Technical Blog:** [https://medium.com/@vuyo.makasi]
 * **Availability:** Open to discussing Cloud Migrations, AlloyDB Implementations, and Database Security.
